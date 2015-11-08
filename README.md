@@ -1,14 +1,19 @@
 # random-calvin-chrome-ext
-Press Shift+C and get a random Calvin &amp; Hobbes strip as a chrome extension. 
+A Chrome extension.
 
-If you are a fan of calvin and hobbes and would like to see a random script while browsing.
+
+Press Ctrl+Shift+H and get a random Calvin &amp; Hobbes strip on the current tab.
+
+
+If you are a fan of Calvin and Hobbes and would like to see a random script while browsing.
+
 
 # Installation
 + Copy the folder into local drive.
 + Go to chrome extension page
 + Enable developer mode
-+ Click load upacked extension
-+ Select the aforemention folder
++ Click load unpacked extension
++ Select the aforementioned folder
 + Press Shortcut and enjoy.
 
 + Best Used with [Stylish](https://userstyles.org/).

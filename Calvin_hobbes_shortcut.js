@@ -39,7 +39,7 @@ function one_function_to_rule_them_all(){
 function check_if_shortcut_pressed(e) {
 
     // Shift + C
-    if (e.shiftKey && e.keyCode == 67) {
+    if (e.shiftKey && e.keyCode == 72 && e.ctrlKey ) {
         // call your function to do the thing
         one_function_to_rule_them_all();
     }
