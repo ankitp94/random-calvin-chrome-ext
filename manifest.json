@@ -13,5 +13,13 @@
       "matches": ["<all_urls>"],
       "js": ["jquery.js", "Calvin_hobbes_shortcut.js"]
     }
-  ]
+  ],
+  "permissions": [
+      "contextMenus","tabs"
+      ],
+  "background": {
+
+        "scripts": ["jquery.js", "Calvin_hobbes_shortcut.js"]
+    }
+
 }
